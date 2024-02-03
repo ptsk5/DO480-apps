@@ -1,0 +1,6 @@
+resources:
+- ../../base
+- dbclaim-pvc.yaml
+- route.yaml
+
+namePrefix: prod-

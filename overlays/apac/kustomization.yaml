@@ -1,5 +1,6 @@
 resources:
   - ../../base
+  - route.yaml
 
 nameSuffix: -apac
 images:
